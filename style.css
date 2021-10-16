@@ -1,0 +1,40 @@
+.main{
+font-family: 'Andada Pro', serif;;
+}
+.copy_right_footer{
+font-family: 'Montserrat', sans-serif; 
+font-variant: small-caps;
+font-weight: 600;
+letter-spacing: 1px;
+text-align: center;
+color: seashell;
+font-size: 20px;
+}
+.header_div{
+font-family: 'Raleway', sans-serif;
+background-color:skyblue;
+color: darkblue;
+}
+body
+{
+  background-color: lightskyblue;
+  font-family: 'Gemunu Libre', sans-serif;
+}
+.header_div p
+{
+    color: red;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+.header_div h2 
+{
+    font-variant: small-caps;
+    font-size: 50px;
+    font-weight: bold;
+}
+.main button
+{
+    font-variant: small-caps;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
